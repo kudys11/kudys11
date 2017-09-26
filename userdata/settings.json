@@ -1,0 +1,30 @@
+{
+	"accounts": [{
+		"loginType": "normal",
+		"username": "kudys13@gmail.com",
+		"password": "310000",
+		"lang": "pl",
+		"world": "pl3"
+	}, {
+		"loginType": "game",
+		"username": "kudys13@gmail.com",
+		"password": "base64encoded310000",
+		"lang": "pl",
+		"world": "pl3",
+		"answer": "anwerforsecurityquestionfromgoogle"
+	}, {
+		"loginType": "game",
+		"username": "kudys13@gmail.com",
+		"password": "base64encoded310000",
+		"lang": "pl",
+		"world": "pl3",
+		"answer": "anwerforsecurityquestionfromgoogle"
+	}, {
+		"loginType": "google",
+		"username": "username",
+		"password": "base64encodedpassword",
+		"lang": "pl",
+		"world": "pl2",
+		"answer": "anwerforsecurityquestionfromgoogle"
+	}}]
+}
